@@ -23,7 +23,7 @@ Python • SQL • Power BI • Excel • Pandas • Numpy • Matplotlib • Se
 ---
 
 ## 📫 Connect With Me
-[LinkedIn](#) • [Email](mailto:your-email@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/ahmedgharbi) • [Email](mailto:ahmedgharbigharbi718@gmail.com)  
 
 ---
 
