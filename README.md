@@ -3,12 +3,12 @@
 Turning raw data into clean insights & dashboards.
 
 ---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ff00&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights;Python+%2B+SQL+%2B+Power+BI)
 
 ## 🧠 About Me
 - 🎓 Software Engineering graduate transitioning into **Data Analysis**  
 - 📊 Skilled in **Python, SQL, Power BI, Excel**  
 - 🔍 Passionate about data cleaning, visualization & storytelling  
-- 🇩🇪 Actively seeking **Data Analyst Internship** opportunities in Germany/France  
 - 🚀 Currently building Power BI dashboards & Python EDA projects  
 
 ---
@@ -18,27 +18,7 @@ Turning raw data into clean insights & dashboards.
 **Languages & Tools:**  
 Python • SQL • Power BI • Excel • Pandas • Numpy • Matplotlib • Seaborn • Git • Jupyter • MySQL • PostgreSQL
 
----
 
-## 📂 Featured Projects
-
-### 🔸 1. **Sales Performance Dashboard – Power BI**
-📊 Interactive dashboard analyzing sales trends, revenue, and KPIs  
-🔗 **Live Dashboard:** *(Power BI link here)*  
-📁 **Source:** [GitHub Repo](#)
-
----
-
-### 🔸 2. **Customer Churn Analysis – Python**
-📈 Exploratory data analysis using Pandas & Seaborn  
-🧹 Data cleaning, visualization & insight extraction  
-📁 **Source:** [GitHub Repo](#)
-
----
-
-### 🔸 3. **COVID-19 Data Exploration – SQL**
-🛢 SQL queries for trends, deaths, vaccinations & country comparisons  
-📁 **Source:** [GitHub Repo](#)
 
 ---
 
