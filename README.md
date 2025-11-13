@@ -3,7 +3,7 @@
 Turning raw data into clean insights & dashboards.
 
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ff00&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights;Python+%2B+SQL+%2B+Power+BI)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ff00&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights;using+Python+%2B+SQL+%2B+Power+BI)
 
 ## 🧠 About Me
 - 🎓 Software Engineering graduate transitioning into **Data Analysis**  
