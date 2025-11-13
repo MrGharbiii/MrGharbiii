@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Gharbi  
+### Software Engineer • Junior Data Analyst  
+Turning raw data into clean insights & dashboards.
 
-<!--
-**MrGharbiii/MrGharbiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🎓 Software Engineering graduate transitioning into **Data Analysis**  
+- 📊 Skilled in **Python, SQL, Power BI, Excel**  
+- 🔍 Passionate about data cleaning, visualization & storytelling  
+- 🇩🇪 Actively seeking **Data Analyst Internship** opportunities in Germany/France  
+- 🚀 Currently building Power BI dashboards & Python EDA projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+**Languages & Tools:**  
+Python • SQL • Power BI • Excel • Pandas • Numpy • Matplotlib • Seaborn • Git • Jupyter • MySQL • PostgreSQL
+
+---
+
+## 📂 Featured Projects
+
+### 🔸 1. **Sales Performance Dashboard – Power BI**
+📊 Interactive dashboard analyzing sales trends, revenue, and KPIs  
+🔗 **Live Dashboard:** *(Power BI link here)*  
+📁 **Source:** [GitHub Repo](#)
+
+---
+
+### 🔸 2. **Customer Churn Analysis – Python**
+📈 Exploratory data analysis using Pandas & Seaborn  
+🧹 Data cleaning, visualization & insight extraction  
+📁 **Source:** [GitHub Repo](#)
+
+---
+
+### 🔸 3. **COVID-19 Data Exploration – SQL**
+🛢 SQL queries for trends, deaths, vaccinations & country comparisons  
+📁 **Source:** [GitHub Repo](#)
+
+---
+
+## 📫 Connect With Me
+[LinkedIn](#) • [Email](mailto:your-email@gmail.com)  
+
+---
+
+⭐ *Thanks for stopping by! Feel free to explore my projects.*  
